@@ -1,12 +1,12 @@
-# _{Count Von Count}_
+# _Count Von Count_
 
-##### _{BDD PHP Code Review for week 2 at Epicodus}, {August 2015}_
+##### _BDD PHP Code Review for week 2 at Epicodus, August 2015_
 
-#### By _**{Jenna Maloney}**_
+#### By _**Jenna Maloney**_
 
 ## Description
 
-_{This search form allows users to input a word, and a string of words. Then, a user can submit the form in order to check how frequently the word appears in the string. (Only exact matches will be returned.) }_
+_This search form allows users to input a word, and a string of words. Then, a user can submit the form in order to check how frequently the word appears in the string. (Only exact matches will be returned.) _
 
 ## Setup
 
