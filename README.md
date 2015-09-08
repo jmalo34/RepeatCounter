@@ -6,7 +6,7 @@
 
 ## Description
 
-_This search form allows users to input a word, and a string of words. Then, a user can submit the form in order to check how frequently the word appears in the string. (Only exact matches will be returned.) _
+This search form allows users to input a word, and a string of words. Then, a user can submit the form in order to check how frequently the word appears in the string. (Only exact matches will be returned.)
 
 ## Setup
 
@@ -19,11 +19,11 @@ _This search form allows users to input a word, and a string of words. Then, a u
 
 ## Technologies Used
 
-_{HTML, Twig, Silex, PHPUnit, composer, Bootstrap}_
+_HTML, Twig, Silex, PHPUnit, composer, Bootstrap_
 
 ### Legal
 
-Copyright (c) 2015 **_{Jenna Maloney}_**
+Copyright (c) 2015 **_Jenna Maloney_**
 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
