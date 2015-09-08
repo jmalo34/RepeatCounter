@@ -1,0 +1,24 @@
+SPEC 1
+There are no matches found in a string.
+Input:  cookie; I went to the grocery store.
+Output:  0
+
+SPEC 2
+A word is found in a string
+Input:  cookie; Seven batches of cookies were baked.
+Output:  1
+
+SPEC 3
+Partial matches are not counted
+Input: cookie; There were seven types of cookies on the cookie platter.
+Output: 1
+
+SPEC 4
+The string is not case-sensitive
+Input:  cookie; Cookie World sold seven types of cookies at each of their cookie stores.
+Output:  2
+
+SPEC 5
+Non-alphabetic characters are ignored, except for apostrophes
+Input: didn't; She didn't want to miss the bake sale.
+Output:  1
